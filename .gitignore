@@ -1,0 +1,13 @@
+# File kredensial database & JWT rahasia
+.env
+
+# Binary hasil build Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# File log atau sementara
+*.log
+tmp/
